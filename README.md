@@ -115,7 +115,7 @@ Such workflows are essential for genomic research, clinical diagnostics, and pre
 
 ---
 ## 📄 Project Report
-You can view the complete project report here: 
+You can view the complete project report here:https://github.com/DEBOPRIYA2320/NGS-WES-TRS-Analysis/blob/ac8d517bd6ba9b9dabdf7e66be21c139fe3b2c38/NGS%20-%20Genomics%20data%20analysis%20(Debopriya).pdf
 ## 📫 Contact
 **Author:** Debopriya  
 📧 [debopriya0920@gmail.com](mailto:debopriya0920@gmail.com)  
